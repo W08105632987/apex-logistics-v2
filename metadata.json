@@ -1,0 +1,10 @@
+{
+  "name": "Apex Logistics V2",
+  "description": "Responsive logistics website with customer portal, shipment tracking, server-backed quote requests and an operations workspace. Email delivery, carrier integrations and live geographic tracking require provider configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "SERVER_BACKED_AUTHENTICATION",
+    "ACCOUNT_SCOPED_SHIPMENT_TRACKING",
+    "CUSTOMER_QUOTE_AND_SUPPORT_WORKFLOWS"
+  ]
+}
